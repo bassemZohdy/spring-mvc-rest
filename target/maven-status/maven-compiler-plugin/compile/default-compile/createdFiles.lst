@@ -1,0 +1,5 @@
+io\spring\web\mvc\rest\service\ItemServiceInMemory.class
+io\spring\web\mvc\rest\model\Item.class
+io\spring\web\mvc\rest\config\RESTConfig.class
+io\spring\web\mvc\rest\config\MyWebApplicationInitializer.class
+io\spring\web\mvc\rest\controller\ItemRESTController.class

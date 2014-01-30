@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.spring.web.mvc.rest.integration.test.ItemRESTTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.432 sec - in io.spring.web.mvc.rest.integration.test.ItemRESTTest
