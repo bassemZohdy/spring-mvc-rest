@@ -2,9 +2,6 @@ package io.spring.web.mvc.rest.service.test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
-
-import java.net.URI;
-
 import io.spring.web.mvc.rest.model.Item;
 import io.spring.web.mvc.rest.service.ItemServiceInMemory;
 
